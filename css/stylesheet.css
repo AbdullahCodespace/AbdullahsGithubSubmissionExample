@@ -1,0 +1,14 @@
+#box1{
+    border: 2px solid black;
+    display: flex;
+}
+
+#box2{
+    border: 2px solid black;
+    padding: 2px;
+}
+
+h1{
+    border: 2px solid black;
+    padding: 2px;
+}
